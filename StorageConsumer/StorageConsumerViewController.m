@@ -7,8 +7,6 @@
 //
 
 #import "StorageConsumerViewController.h"
-#include <stdio.h>
-#include <stdlib.h>
 
 const NSUInteger StorageConsumerComponentCount = 2;
 const NSUInteger StorageConsumerGigaComponent = 0;
